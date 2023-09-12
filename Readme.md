@@ -31,10 +31,12 @@ This repo comes after author's participation in NASA's machine learning competit
 
 <br />  
 
-
-Training and inference pipeline below is a simplified version ranked 6th scoring 0.811 on private LB instead of author's best 5th place.  
+  
 
 #### **Training and Inference Notebook**
+
+Training and inference pipeline below is a simplified version ranked 6th scoring 0.811 on private LB instead of author's best 5th place.
+
 [v42](lgbmNN_ee_gkf_S_v42g.ipynb)    
 
 <br />  
