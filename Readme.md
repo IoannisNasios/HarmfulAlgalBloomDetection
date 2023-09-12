@@ -1,15 +1,16 @@
 # Tick Tick Bloom: Harmful Algal Bloom Detection Challenge
+This repo comes after author's participation in NASA's machine learning competition for cyanobacterial algal bloom severity classification. 
 
 <img src="assets/competition_cyano_banner.jpeg" alt="competition_cyano_banner" />
 
 
 ## General
 * **Problem statement:** use satellite imagery to detect and classify the severity of cyanobacteria blooms in small, inland water bodies.
-* **Type:** Oridinal regression
+* **Type:** Ordinal regression
 * **Host:** NASA
 * **Platform:** Drivendata
 * **Competition link:** https://www.drivendata.org/competitions/143/tick-tick-bloom/
-* **Placement:** Top 1% (6/1377)  
+* **Placement:** Top 1% (5/1377)  
 * **User Name:** Ouranos  
 
 
@@ -30,7 +31,10 @@
 
 <br />  
 
-#### **Training and Inference Notebooks**
+
+Training and inference pipeline below is a simplified version ranked 6th scoring 0.811 on private LB instead of author's best 5th place.  
+
+#### **Training and Inference Notebook**
 [v42](lgbmNN_ee_gkf_S_v42g.ipynb)    
 
 <br />  
