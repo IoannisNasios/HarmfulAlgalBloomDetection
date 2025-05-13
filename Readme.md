@@ -39,6 +39,24 @@ Training and inference pipeline below is a simplified version ranked 6th scoring
 
 [v42](lgbmNN_ee_gkf_S_v42g.ipynb)    
 
+<br /> 
+
+## Citing This Work    
+**This code has been used in the research paper "AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data". If you find this code useful, please consider citing it.**  
+**A preprint can be found on [arxiv](https://arxiv.org/abs/2505.03808).**  
+
+BibTeX:
+```bibtex
+@article{nasios2025ai,
+  title={AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data},
+  author={Nasios, Ioannis},
+  journal={arXiv preprint arXiv:2505.03808},
+  year={2025}
+}
+```
+
+
+
 <br />  
 
 
