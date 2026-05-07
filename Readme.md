@@ -50,16 +50,14 @@ BibTeX:
 ```bibtex
 @article{nasios2025ai,
   title = {AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging   Sentinel-2, DEM, and NOAA climate data},
+  author={Nasios, Ioannis},
   journal = {Remote Sensing Applications: Society and Environment},
   volume = {40},
   pages = {101800},
   year = {2025},
-  issn = {2352-9385},
-  author = {Ioannis Nasios}
+  issn = {2352-9385}
 }
-```
-
-
+```  
 
 <br />  
 
